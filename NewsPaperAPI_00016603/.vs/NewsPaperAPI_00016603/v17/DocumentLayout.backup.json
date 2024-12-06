@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\newspaperapi_00016603.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\newspaperapi_00016603.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|c:\\users\\bobur\\desktop\\webdev cw\\miraziz\\wad_00016603\\newspaperapi_00016603\\newspaperapi_00016603\\migrations\\20241206180842_initial_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2765BD-A5AE-4CB5-AE30-E642A1C98CFD}|NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj|solutionrelative:newspaperapi_00016603\\migrations\\20241206180842_initial_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:24:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:16:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswJAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:15:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Program.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Program.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Program.cs*",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:07:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\appsettings.json",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T18:07:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsPaperAPI_00016603.csproj",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\NewsPaperAPI_00016603.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T18:04:19.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:25:08.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\appsettings.Development.json",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T18:09:33.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Repositories\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Repositories\\NewsRepository.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Repositories\\NewsRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:27:08.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:32:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneralDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Data\\GeneralDbContext.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Data\\GeneralDbContext.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Data\\GeneralDbContext.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Data\\GeneralDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:04:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:13:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\DTOs\\NewsDTO.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\DTOs\\NewsDTO.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\DTOs\\NewsDTO.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\DTOs\\NewsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:14:48.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241206180842_initial_migrate.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Migrations\\20241206180842_initial_migrate.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Migrations\\20241206180842_initial_migrate.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Migrations\\20241206180842_initial_migrate.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Migrations\\20241206180842_initial_migrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:08:42.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Models\\Category.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:01:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Models\\News.cs",
+              "RelativeDocumentMoniker": "NewsPaperAPI_00016603\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Miraziz\\wad_00016603\\NewsPaperAPI_00016603\\NewsPaperAPI_00016603\\Models\\News.cs",
+              "RelativeToolTip": "NewsPaperAPI_00016603\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:03:01.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
